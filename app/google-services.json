@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611914522779",
+    "project_id": "textrecognitionapp-e28f9",
+    "storage_bucket": "textrecognitionapp-e28f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611914522779:android:7a0e81e4d765018033663e",
+        "android_client_info": {
+          "package_name": "com.example.android_textrecognitionfromcameraml_kit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611914522779-9iodq5ua6a9vfglrdq34s7v9qv2d6ume.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj6SNr_18P7E4UojHlu2OOlcljzPge82s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611914522779-9iodq5ua6a9vfglrdq34s7v9qv2d6ume.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
